@@ -8,6 +8,6 @@ $downloadUrl = $arResult['DOWNLOAD_URL'] ?: ($arParams['DOWNLOAD_URL'] ?? '');
 ?>
 <div class="custom-excel-download">
     <a href="<?= htmlspecialcharsbx($downloadUrl) ?>" class="btn btn-primary" download>
-        Скачать Excel (Привет мир!)
+        Скачать Excel (Привет мир2!)
     </a>
 </div>
